@@ -12,8 +12,8 @@ Para la ejecución de esta prueba se ha utilizado:
 ## Instrucciones de Ejecución
 
 1. Clona este repositorio localmente:
-   ```bash
-https://github.com/AmbarB123/crm-clientes-jquery/tree/master
+   ```bash https://github.com/AmbarB123/crm-clientes-jquery/tree/master
+
 
 2. cd tu-repositorio
 
