@@ -1,0 +1,12 @@
+{
+  "employees": [
+    {
+      "name": "Ambar",
+      "surname": "Ballen",
+      "dateOfBirth": "1997-06-05",
+      "email": "ambar@prueba.com",
+      "roleId": 1,
+      "id": 1
+    }
+  ]
+}
